@@ -7,11 +7,11 @@
   <a href="https://github.com/speeed131">
     <img height="20" src="https://img.shields.io/github/followers/speeed131?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/speeed131">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/speeed131/posts.svg" />
+  <a href="http://qiita.com/sd131">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/sd131/posts.svg" />
   </a>
-  <a href="http://qiita.com/speeed131">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/speeed131/contributions.svg" />
+  <a href="http://qiita.com/sd131">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/sd131/contributions.svg" />
   </a>
 </p>
 
