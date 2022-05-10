@@ -17,7 +17,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=speeed131&show_icons=true&theme=radical&hide=stars&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=speeed131&show_icons=true&theme=radical&hide=stars&pricate_count=true)
 
 
 
